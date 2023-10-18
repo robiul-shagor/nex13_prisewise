@@ -6,7 +6,10 @@ const nextConfig = {
   },
   images: {
     domains: ['m.media-amazon.com']
-  }
+  },
+  output: 'export',
+  distDir: 'out'
 }
+
 
 module.exports = nextConfig
