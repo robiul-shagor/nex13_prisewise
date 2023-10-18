@@ -5,9 +5,11 @@ const nextConfig = {
     serverComponentsExternalPackages: ['mongoose']
   },
   images: {
-    domains: ['m.media-amazon.com']
+    domains: ['m.media-amazon.com'],
+    unoptimized: true
   },
-  distDir: 'out'
+  distDir: 'out',
+  output: 'export'
 }
 
 module.exports = nextConfig
