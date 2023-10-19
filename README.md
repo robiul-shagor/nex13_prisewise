@@ -1,5 +1,5 @@
 ## Demo URL - 
-[https://travelapps1.netlify.app/](https://travelapps1.netlify.app/) 
+[https://priceamazon.vercel.app/](https://priceamazon.vercel.app/) 
 
 ## Introduction
 Dive into web scraping and build a Next.js 13 eCommerce price tracker within a single video that teaches you data scraping, cron jobs, sending emails, deployment, and more.
